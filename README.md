@@ -1,4 +1,4 @@
-# Python Mini Projects
+# Algorithms
 
 Welcome to the **Python Mini Projects** repository! This repository contains a collection of small Python puzzles, each implemented as a separate file. These mini projects are designed to help you improve your Python coding skills and explore various concepts and techniques.
 
@@ -22,12 +22,12 @@ To get started with the Python Mini Projects, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/python-mini-projects.git
+   git clone https://github.com/your-username/algorithms.git
    ```
 
 2. Navigate to the repository's directory:
    ```
-   cd python-mini-projects
+   cd Algorithms
    ```
 
 3. Explore the collection of mini projects and choose the one you want to work on.
