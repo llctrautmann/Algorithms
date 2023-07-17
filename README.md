@@ -1,6 +1,6 @@
 # Algorithms
 
-Welcome to the **Python Mini Projects** repository! This repository contains a collection of small Python puzzles, each implemented as a separate file. These mini projects are designed to help you improve your Python coding skills and explore various concepts and techniques.
+Welcome to the **Algorithms** repository! This repository contains a collection of small Python puzzles, each implemented as a separate file. These mini projects are designed to help you improve your Python coding skills and explore various concepts and techniques.
 
 ## Table of Contents
 
